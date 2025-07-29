@@ -1,0 +1,13 @@
+package skill1;
+
+public class prg2 {
+	public static void main(String[] args) {
+		double d=28338.23;
+		System.out.println(d);
+		int i=(int)d;
+		System.out.println(i);
+		
+		
+	}
+
+}
